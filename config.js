@@ -25,8 +25,8 @@ const CONFIG = {
   weatherKey: 'b4de0c948d7b7a596a37e97396a1d739',
   weatherIcons: 'White', // 'Nord', 'Dark', 'White'
   weatherUnit: 'F',
-  weatherLatitude: '32.466679',
-  weatherLongitude: '-84.990402',
+  weatherLatitude: '32.391266,
+  weatherLongitude: '-84.822906',
   
 
   // ┌─┐┌─┐┬─┐┌┬┐┌─┐
