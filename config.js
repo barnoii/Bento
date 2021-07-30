@@ -83,7 +83,7 @@ const CONFIG = {
 
   // Links
   lists: {
-    secondList: [
+        firstList: [
       {
         name: 'Google Classroom',
         link: 'https://classroom.google.com/u/3/h',
@@ -99,6 +99,24 @@ const CONFIG = {
       {
         name: 'Google Slides',
         link: 'https://docs.google.com/presentation/u/3/',
+      },
+    ],
+        secondList: [
+      {
+        name: 'Inspirational',
+        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+      },
+      {
+        name: 'Classic',
+        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+      },
+      {
+        name: 'Oldies',
+        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+      },
+      {
+        name: 'Rock',
+        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
       },
     ],
   },
