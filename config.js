@@ -107,20 +107,20 @@ const CONFIG = {
     ],
     secondList: [
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
+        name: 'Google Classroom',
+        link: 'https://classroom.google.com/u/3/h',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: 'School Gmail',
+        link: 'https://mail.google.com/mail/u/3/#inbox',
       },
       {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
+        name: 'Google Docs',
+        link: 'https://docs.google.com/document/u/3/',
       },
       {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
+        name: 'Google Slides',
+        link: 'https://docs.google.com/presentation/u/3/',
       },
     ],
   },
