@@ -25,7 +25,7 @@ const CONFIG = {
   weatherKey: 'b4de0c948d7b7a596a37e97396a1d739',
   weatherIcons: 'White', // 'Nord', 'Dark', 'White'
   weatherUnit: 'F',
-  weatherLatitude: '32.391266,
+  weatherLatitude: '32.391266',
   weatherLongitude: '-84.822906',
   
 
@@ -83,40 +83,22 @@ const CONFIG = {
 
   // Links
   lists: {
-    firstList: [
-      {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-      },
-      {
-        name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-      },
-      {
-        name: 'Oldies',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-      },
-      {
-        name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-      },
-    ],
     secondList: [
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
+        name: 'Google Classroom',
+        link: 'https://classroom.google.com/u/3/h',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: 'School Gmail',
+        link: 'https://mail.google.com/mail/u/3/#',
       },
       {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
+        name: 'Google Docs',
+        link: 'https://docs.google.com/document/u/3/,
       },
       {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
+        name: 'Google Slides',
+        link: 'https://docs.google.com/presentation/u/3/',
       },
     ],
   },
