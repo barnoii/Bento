@@ -72,36 +72,18 @@ const CONFIG = {
       link: 'https://twitch.tv/',
     },
   ],
-
+ 
   // ┬  ┬┌─┐┌┬┐┌─┐
   // │  │└─┐ │ └─┐
   // ┴─┘┴└─┘ ┴ └─┘
-
+ 
   //Icons
   firstListIcon: 'home',
   secondListIcon: 'edit-3',
-
+  
   // Links
   lists: {
-        firstList: [
-      {
-        name: 'Google Classroom',
-        link: 'https://classroom.google.com/u/3/h',
-      },
-      {
-        name: 'School Gmail',
-        link: 'https://mail.google.com/mail/u/3/#',
-      },
-      {
-        name: 'Google Docs',
-        link: 'https://docs.google.com/document/u/3/,
-      },
-      {
-        name: 'Google Slides',
-        link: 'https://docs.google.com/presentation/u/3/',
-      },
-    ],
-        secondList: [
+    firstList: [
       {
         name: 'Inspirational',
         link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
@@ -117,6 +99,24 @@ const CONFIG = {
       {
         name: 'Rock',
         link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+      },
+    ],
+    secondList: [
+      {
+        name: 'Linkedin',
+        link: 'https://linkedin.com/',
+      },
+      {
+        name: 'Figma',
+        link: 'https://figma.com/',
+      },
+      {
+        name: 'Dribbble',
+        link: 'https://dribbble.com',
+      },
+      {
+        name: 'Telegram',
+        link: 'https://webk.telegram.org',
       },
     ],
   },
