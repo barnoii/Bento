@@ -97,10 +97,6 @@ const CONFIG = {
         link: 'https://www.nytimes.com/',
       },
       {
-        name: 'Techcrunch',
-        link: 'https://techcrunch.com/,
-      },
-      {
         name: 'Engadget',
         link: 'https://www.engadget.com/',
       },
