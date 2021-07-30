@@ -78,28 +78,36 @@ const CONFIG = {
   // ┴─┘┴└─┘ ┴ └─┘
  
   //Icons
-  firstListIcon: 'home',
+  firstListIcon: 'book-open',
   secondListIcon: 'edit-3',
   
   // Links
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Epicurious',
+        link: 'https://www.epicurious.com/',
       },
       {
-        name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Vox',
+        link: 'https://www.vox.com/',
       },
       {
-        name: 'Oldies',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'The New York Times',
+        link: 'https://www.nytimes.com/',
       },
       {
-        name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Techcrunch',
+        link: 'https://techcrunch.com/,
       },
+      {
+        name: 'Engadget',
+        link: 'https://www.engadget.com/',
+      },
+      {
+        name: 'Windows Central',
+        link: 'https://www.windowscentral.com/',
+      }
     ],
     secondList: [
       {
