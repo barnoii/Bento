@@ -13,7 +13,7 @@ const CONFIG = {
   // General
   name: 'Barnoii',
   imageBackground: false,
-  openInNewTab: true,
+  openInNewTab: false,
 
   // Greetings
   greetingMorning: 'Good morning!',
